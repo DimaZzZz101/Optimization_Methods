@@ -1,0 +1,12 @@
+a, 3,
+b, 5,
+c, 2, b,
+d, 4, c,
+e, 3, a,
+f, 1, a,
+g, 4, f,
+h, 3, i,
+i, 3, e,
+j, 2, h;g;k,
+k, 5, b,
+stop, 0, a;b;c;d;e;f;g;h;i;j;k
